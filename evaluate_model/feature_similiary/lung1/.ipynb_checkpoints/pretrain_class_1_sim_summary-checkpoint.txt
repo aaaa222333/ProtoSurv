@@ -1,0 +1,11 @@
+Target Feature: /home/user/prognosis_lst/evaluate_model/feature_similiary/data/lung1/class_1_average.pt
+Source CSV: /home/user/prognosis_lst/evaluate_model/feature_similiary/data/lung1/pretrain/final_complete_with_paths.csv
+----------------------------------------
+Mean (均值): 0.116544
+Median (中位数): 0.070060
+Std Dev (标准差): 0.378362
+Variance (方差): 0.143157
+Min (最小值): -0.620876
+Max (最大值): 0.972876
+Q1 (25%分位数): -0.213317
+Q3 (75%分分数): 0.394106
