@@ -310,3 +310,14 @@
 /evaluate_model/feature_similiary/lung1/pretrain_class_1_sim_summary.txt
 /evaluate_model/feature_similiary/lung1/pretrain_class_sim.csv
 /evaluate_model/feature_similiary/lung1/pseudo_label_results.csv
+/根据结果直接计算指标/data/
+/evaluate_model/plot/KM曲线/huaxi/final_complete.csv
+/evaluate_model/plot/KM曲线/huaxi/final_with_risk_groups.csv
+/evaluate_model/plot/KM曲线/huaxi/test_labels.csv
+/evaluate_model/plot/KM曲线/huaxi/KM_data.csv
+/evaluate_model/plot/KM曲线/huaxi/train_labels.csv
+/evaluate_model/plot/KM曲线/huaxi/临床_huaxi_KM_data.csv
+/evaluate_model/plot/KM曲线/huaxi/test_val_time_event.csv
+/evaluate_model/feature_similiary/huaxi/class1_with_similarity.csv
+/evaluate_model/feature_similiary/huaxi/class0_with_similarity.csv
+/evaluate_model/feature_similiary/data/huaxi/
